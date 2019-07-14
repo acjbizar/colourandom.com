@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "version": "20190714",
+    "name": "ColouRandom (or Colour and Om)",
+    "default_locale": "en",
+    "description": "Art website + domain name, 2014. Requires JavaScript support. Click or tap to start.",
+    "author": "Alexander Christiaan Jacob",
+    "theme_color": "#000000",
+    "homepage_url": "https://colourandom.com/",
+    "start_url": "https://colourandom.com/",
+    "icons": [
+        {
+            "src": "https://colourandom.com/apple-touch-icon-precomposed.png"
+        }
+    ],
+    "display": "fullscreen"
+}
